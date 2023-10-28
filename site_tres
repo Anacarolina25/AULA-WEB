@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title> Meu Site </title>
+		<HR>
+	</head>
+		
+		<!-- CONTEÚDO-->
+
+	
+		
+	<body background="white">
+		
+	
+		<p align="center"> <b> Meu site</b> </p> VIAGEM PARA MALDIVAS!
+		<hr>
+		<!-- conteudo -->
+		<P>Confira as promoções de viagens </P>
+		Sou a desenvolvedora
+		
+		<p> Venha viajar e conhecer um dos destinos mais procurado do mundo </p>
+		<img src="MALDIVAS.JPG" width="250"height="250">
+		
+	
+		
+		<br><br>
+		<A href=""> Voltar para página principal</a>
+		
+		
+		
+		
+		
+		<br><br>
+		
+		
+		
+		
+		
+		
+		
+		</body>
+		
+
+</html>
+	
